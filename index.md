@@ -10,4 +10,4 @@ The project above is documented in *[Developing Web Apps](https://leanpub.com/De
 
 * * *
 
-For further information, visit Squeng's [abode](https://io.squeng.com/abode/).
+For further information, visit [Squeng AG's abode](https://squeng.com/).
