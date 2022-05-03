@@ -18,7 +18,7 @@
 
 |   |   |
 |:--|--:|
-| [BOB Tech GmbH](https://www.bobtech.ch/) | seit 2021 |
+| [BOB Tech GmbH](https://bob-e.io/) | seit 2021 |
 | [ITBO](https://www.itbo.sg.ch/) | seit 2019 |
 
 ### Erfahrung
