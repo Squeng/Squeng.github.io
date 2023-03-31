@@ -6,8 +6,9 @@
 
 |   |   |
 |:--|--:|
-| [Switzerland Innovation Park Ost AG](https://www.switzerland-innovation.com/ost/) | seit 2021 |
-| [Talent Maps AG](https://www.talent-maps.com/) | seit 2020 |
+| [ASMIQ I/O AG](https://asmiq.io/) | seit 2023 |
+| [Switzerland Innovation Park Ost AG](https://innovationspark-ost.ch/) | seit 2021 |
+| [Talent Maps AG](https://www.talent-maps.com/) | 2020 - 2023 |
 | [Galledia Group AG](https://www.galledia.ch/) | seit 2020 |
 | [Ledgy AG](https://ledgy.com/) | 2017 - 2021 |
 | [Squeng AG](https://www.squeng.com/) | seit 2015 |
