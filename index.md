@@ -2,7 +2,7 @@
 
 | Verwaltungsrat |   |
 |:---------------|--:|
-| [ASMIQ I/O AG](https://asmiq.io/) | seit 2023 |
+| [Galledia Digital AG](https://www.galledia.ch/digital/) (vormals ASMIQ I/O AG) | seit 2023 |
 | [Switzerland Innovation Park Ost AG](https://innovationspark-ost.ch/) | seit 2021 |
 | [Talent Maps AG](https://www.talent-maps.com/) | 2020 - 2023 |
 | [Galledia Group AG](https://www.galledia.ch/) | seit 2020 |
@@ -11,7 +11,7 @@
 | [Nezasa AG](https://nezasa.com/) | 2013 - 2016 |
 | [Doodle AG](https://doodle.com/) | 2008 - 2014 |
 
-| Erfahrung |   |
+| [Erfahrung](https://www.squeng.com/ingenieure#dr-paul-e-sevin%C3%A7) |   |
 |:----------|--:|
 | CTO, [Squeng AG](https://www.squeng.com/) | seit 2015 |
 | CTO, [Doodle AG](https://doodle.com/) | April 2007 - Juli 2014 |
