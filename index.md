@@ -1,4 +1,4 @@
-## Street Creds
+## Street Cred
 
 | Verwaltungsrat |   |
 |:---------------|--:|
